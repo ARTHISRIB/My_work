@@ -1,0 +1,10 @@
+<html>
+<head>
+<script>
+var a=ParseInt(prompt("Enter a:"));
+var b=ParseInt(prompt("Enter b:"));
+var c=a+b;
+document.write("Addition:"+c);
+</script>
+</head>
+</html>
